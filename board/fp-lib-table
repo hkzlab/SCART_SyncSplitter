@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "extron-input")(type "KiCad")(uri "${KIPRJMOD}/libraries/extron-input.pretty")(options "")(descr ""))
+  (lib (name "audio")(type "KiCad")(uri "${KIPRJMOD}/libraries/audio")(options "")(descr ""))
+  (lib (name "logos")(type "KiCad")(uri "${KIPRJMOD}/libraries/logo")(options "")(descr ""))
+)
