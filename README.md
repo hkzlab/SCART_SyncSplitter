@@ -34,7 +34,7 @@ I'm grateful to PCBWay for the support in creating this project.
 
 | Component         | Qty | Type / Value           |
 | ----------------- | --- | ---------------------- |
-| C1                |  1  | 570pF / 1206 / ceramic |
+| C1                |  1  | 560pF / 1206 / ceramic |
 | C2, C3, C4, C6    |  4  | 100nF / 1206 / ceramic |
 | C5, C9            |  2  | 10uF radial e.l. caps  |
 | C7                |  1  | 220nF / 1206 / ceramic |
