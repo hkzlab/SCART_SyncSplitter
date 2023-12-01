@@ -30,6 +30,12 @@ of experts and an easy to use, hassle-free order process.
 
 I'm grateful to PCBWay for the support in creating this project.
 
+## Known Issues
+
+### Rev. 0
+
+- Pin 13 and 14 of the VGA connector (HSync and VSync) are swapped. Solved in Rev. 1
+
 ## Bill of Materials
 
 | Component         | Qty | Type / Value           |

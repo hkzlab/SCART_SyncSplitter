@@ -3209,7 +3209,7 @@
     (property "Reference" "C1" (at 50.8 24.1363 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "570pF" (at 50.8 26.6763 0)
+    (property "Value" "560pF" (at 50.8 26.6763 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" (at 48.26 25.4 0)
