@@ -15,8 +15,8 @@ The board is based around the LMH1981 IC and takes from 7 to 12VDC, center tip p
 
 Currently tested with:
 
-- PAL PlayStation 1
-- SEGA MegaDrive (60Hz mod)
+- Sony PlayStation 1 (PAL/50Hz)
+- SEGA MegaDrive (PAL/60Hz mod)
 
 Audio out is still untested.
 
