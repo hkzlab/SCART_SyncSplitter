@@ -10,15 +10,14 @@ The board is based around the LMH1981 IC and takes from 7 to 12VDC, center tip p
 
 ![Sync Splitter](pics/pcb_view.jpg)
 
-
-⚠️⚠️⚠️ ***THIS BOARD IS STILL IN PROTOTYPING STAGE*** ⚠️⚠️⚠️
-
 Currently tested with:
 
 - Sony PlayStation 1 (PAL/50Hz)
 - SEGA MegaDrive (PAL/60Hz mod)
 
-Audio out is still untested.
+Audio out is still **untested**.
+
+You can order a PCB for this project [HERE](https://www.pcbway.com/project/shareproject/SCART_SyncSplitter_bdc49b8d.html).
 
 ### Disclaimer
 
