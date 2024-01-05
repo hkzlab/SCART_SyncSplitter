@@ -60,7 +60,7 @@ I'm grateful to PCBWay for the support in creating this project.
 | J5                |  1  | stereo audio jack pcb  |
 | JP1               |  1  | 1x2 2.54mm headers     |
 | R1                |  1  | 75ohm / 1206           |
-| R2, R4, R6, R8    |  8  | 100ohm / 1206          |
+| R2, R4, R6, R8    |  4  | 100ohm / 1206          |
 | R3                |  1  | 10k ohm 1% tol / 1206  |
 | R10               |  1  | 470ohm / 1206          |
 | U1                |  1  | LMH1981                |
